@@ -51,10 +51,39 @@
         background-color:orange;
     }
 
-    .guideline-top{
-        background-color:black;
-        min-height:45px;
-        width:100%;
+    .head{
+        position:absolute;
+    }
+
+    .guideline-side-left{
+        background-color: rgb(188, 202, 255);
+        height:100%;
+        position:absolute;
+        width:30%;
+        top:0;
+        left:-30%;
+    }
+
+
+    .guideline-side-right{
+        background-color:rgb(188, 202, 255);
+
+    }
+
+    .guide-head{
+
+    }
+
+    .guide-item{
+
+    }
+
+    .guide-slide-item{
+
+    }
+
+    .slide-tag{
+
     }
 
     .guide-item{
@@ -65,14 +94,7 @@
 
     }
 
-    .guideline-side-left{
 
-    }
-
-    .guideline-side-right{
-        background-color:black;
-
-    }
 
 
 
